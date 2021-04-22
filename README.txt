@@ -1,0 +1,1 @@
+This is a small code that encrypt and decrypt strings based on a number given by the user
